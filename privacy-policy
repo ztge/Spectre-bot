@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidade - Spectre</title>
+</head>
+<body>
+  <h1>Política de Privacidade do Bot Spectre / Spectre Bot Privacy Policy</h1>
+
+  <h2>Português</h2>
+  <p>O Spectre respeita sua privacidade. Esta Política descreve como informações são coletadas, armazenadas e utilizadas pelo bot.</p>
+
+  <h3>1. Coleta de Dados</h3>
+  <ul>
+    <li>O Spectre não coleta dados pessoais identificáveis, como nome, e-mail ou telefone, a menos que fornecidos voluntariamente pelo usuário.</li>
+    <li>Dados relacionados a servidores, canais e mensagens podem ser processados temporariamente para executar comandos e funcionalidades.</li>
+  </ul>
+
+  <h3>2. Uso de Dados</h3>
+  <ul>
+    <li>Os dados processados pelo bot são utilizados exclusivamente para o funcionamento dos comandos.</li>
+    <li>O bot não compartilha, vende ou divulga informações de usuários a terceiros.</li>
+  </ul>
+
+  <h3>3. Armazenamento e Segurança</h3>
+  <ul>
+    <li>Dados temporários podem ser armazenados em servidores do bot apenas pelo tempo necessário.</li>
+    <li>O desenvolvedor implementa medidas de segurança para proteger os dados, mas não garante segurança absoluta contra ataques externos.</li>
+  </ul>
+
+  <h3>4. Direitos dos Usuários</h3>
+  <ul>
+    <li>Usuários podem solicitar informações sobre dados processados pelo bot em seus servidores.</li>
+    <li>Usuários podem solicitar que dados temporários sejam apagados, dentro dos limites técnicos do bot.</li>
+  </ul>
+
+  <h3>5. Alterações na Política</h3>
+  <p>Esta política pode ser atualizada periodicamente. O uso contínuo do bot implica aceitação das alterações.</p>
+
+  <h3>6. Contato</h3>
+  <p>Para dúvidas ou solicitações relacionadas à privacidade, entre em contato com o desenvolvedor via Discord ou e-mail oficial.</p>
+
+  <hr>
+
+  <h2>English</h2>
+  <p>Spectre respects your privacy. This Policy describes how information is collected, stored, and used by the bot.</p>
+
+  <h3>1. Data Collection</h3>
+  <ul>
+    <li>Spectre does not collect personally identifiable information, such as name, email, or phone number, unless voluntarily provided by the user.</li>
+    <li>Data related to servers, channels, and messages may be processed temporarily to execute commands and functionalities.</li>
+  </ul>
+
+  <h3>2. Data Usage</h3>
+  <ul>
+    <li>Data processed by the bot is used exclusively for command functionality.</li>
+    <li>The bot does not share, sell, or disclose user information to third parties.</li>
+  </ul>
+
+  <h3>3. Storage and Security</h3>
+  <ul>
+    <li>Temporary data may be stored on the bot's servers only for the necessary time.</li>
+    <li>The developer implements security measures to protect data but cannot guarantee absolute security against external attacks.</li>
+  </ul>
+
+  <h3>4. User Rights</h3>
+  <ul>
+    <li>Users can request information about data processed by the bot in their servers.</li>
+    <li>Users can request deletion of temporary data, within the bot's technical limits.</li>
+  </ul>
+
+  <h3>5. Policy Changes</h3>
+  <p>This policy may be updated periodically. Continued use of the bot implies acceptance of the changes.</p>
+
+  <h3>6. Contact</h3>
+  <p>For questions or requests related to privacy, contact the developer via Discord or official email.</p>
+
+</body>
+</html>

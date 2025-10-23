@@ -1,8 +1,7 @@
 Spectre — Autonomous Username Tracker (Final)
 ============================================
 
-This package contains Spectre — an autonomous, safe Discord username tracker.
-Features:
+This package contains Spectre — an autonomous, safe Discord username tracker. Features:
 - /track, /list, /remove, /status, /notifychannel set/clear
 - /users-available command with filters (Letters, Numbers, Characters), length 3-5, starts_with, ends_with
 - Real availability checks via Discord API search (Bot token required)
@@ -15,7 +14,7 @@ Quick start:
 1. Edit config.json or set BOT_TOKEN env var.
 2. Create virtualenv and install dependencies:
    python -m venv venv
-   source venv/bin/activate  # or .\venv\Scripts\Activate on Windows
+   source venv/bin/activate # or on Windows
    pip install -r requirements.txt
 3. Run:
    python bot.py
@@ -23,4 +22,3 @@ Quick start:
 Security:
 - Keep your bot token secret.
 - Keep MAX_ATTEMPTS_PER_HOUR low (default 2) to avoid hitting username-change limits.
-
